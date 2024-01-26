@@ -1,0 +1,80 @@
+Wed Aug 24 03:08:40 2022
+Symbol: SOL
+Operation: Long Position
+OpenPrice: 35.5
+TakeProfit: 36.92
+HalfProfit: 36.21
+StopLost: 34.79
+*****************************
+Wed Aug 24 16:19:17 2022
+Symbol: WAVE
+Operation: Long Position
+OpenPrice: 5.143
+TakeProfit: 5.34872
+HalfProfit: 5.24586
+StopLost: 5.04014
+*****************************
+Fri Aug 26 16:52:49 2022
+Symbol: SOL
+Operation: Long Position
+OpenPrice: 34.25
+TakeProfit: 35.62
+HalfProfit: 34.935
+StopLost: 33.565
+*****************************
+Fri Aug 26 23:30:52 2022
+Symbol: SOL
+Operation: Long Position
+OpenPrice: 32.92
+TakeProfit: 34.2368
+HalfProfit: 33.5784
+StopLost: 32.2616
+*****************************
+Sat Aug 27 00:14:59 2022
+Symbol: UNI
+Operation: Long Position
+OpenPrice: 6.35
+TakeProfit: 6.604
+HalfProfit: 6.477
+StopLost: 6.223
+*****************************
+Sun Aug 28 03:03:36 2022
+Symbol: BTC
+Operation: Long Position
+OpenPrice: 43.5
+TakeProfit: 45.24
+HalfProfit: 44.37
+StopLost: 42.63
+*****************************
+Sun Aug 28 03:05:28 2022
+Symbol: m
+Operation: Long Position
+OpenPrice: 20
+TakeProfit: 20.8
+HalfProfit: 20.4
+StopLost: 19.6
+*****************************
+Sun Aug 28 03:05:55 2022
+Symbol: m
+Operation: Long Position
+OpenPrice: 20
+TakeProfit: 20.8
+HalfProfit: 20.4
+StopLost: 19.6
+*****************************
+Wed Nov 23 19:29:24 2022
+Symbol: sol
+Operation: Short Position
+OpenPrice: 0.07
+TakeProfit: 0.0672
+HalfProfit: 0.0686
+StopLost: 0.0714
+*****************************
+Wed Nov 23 19:30:00 2022
+Symbol: bnb
+Operation: Short Position
+OpenPrice: 0
+TakeProfit: 0
+HalfProfit: 0
+StopLost: 0
+*****************************
